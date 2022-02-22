@@ -1,0 +1,20 @@
+{
+  "name": "ai-exec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tensor101.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/speech-commands": "^0.4.0",
+    "@tensorflow/tfjs": "^1.2.9",
+    "@tensorflow/tfjs-vis": "1.4.3"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
